@@ -1,0 +1,26 @@
+.about {
+  padding: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.about h1 {
+  color: #ff6600;  /* Example color */
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+.company-history, .mission-statement {
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.company-history h2, .mission-statement h2{
+  color: #ff6600;  /* Example color */
+}
+
+
